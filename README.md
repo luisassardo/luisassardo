@@ -15,16 +15,25 @@ I explore hostile digital environments, threat intelligence, and their impact on
 
 ---
 
-## Featured projects
+## Projects
 
 | Project | Description | Stack |
 |---|---|---|
-| [cartas-a-desconocidos](https://github.com/luisassardo/cartas-a-desconocidos) | Anonymous letter exchange system | Node.js, Docker |
-| [pulso-digital](https://github.com/luisassardo/pulso-digital) | Minimal Ghost CMS theme | CSS |
-| [monetization-tool](https://github.com/luisassardo/monetization-tool) | Web monetization utility | HTML, JS |
-| [Osintgram](https://github.com/luisassardo/Osintgram) (fork) | OSINT tool for Instagram analysis | Python |
-| [TGcollector](https://github.com/luisassardo/TGcollector) (fork) | Web GUI for Telegram channel collection | JavaScript |
-| [CCTV](https://github.com/luisassardo/CCTV) (fork) | Close-circuit Telegram vision tracking | Python |
+| [cartas-a-desconocidos](https://github.com/luisassardo/cartas-a-desconocidos) | Anonymous letter exchange system with AES-256 encryption | Node.js, Docker |
+| [pulso-digital](https://github.com/luisassardo/pulso-digital) | Minimal Ghost CMS theme for editorial publications | CSS |
+| [monetization-tool](https://github.com/luisassardo/monetization-tool) | Facebook monetization data visualizer for Central America | HTML, JS, Python |
+
+---
+
+## Research Forks
+
+> These tools are used strictly for **defensive security research**, OSINT methodology study, and threat intelligence analysis in authorized, controlled environments.
+
+| Project | Description | Stack |
+|---|---|---|
+| [Osintgram](https://github.com/luisassardo/Osintgram) | OSINT tool for Instagram analysis | Python |
+| [TGcollector](https://github.com/luisassardo/TGcollector) | Web GUI for Telegram channel data collection | JavaScript |
+| [CCTV](https://github.com/luisassardo/CCTV) | Telegram-based visual tracking research | Python |
 
 ---
 
