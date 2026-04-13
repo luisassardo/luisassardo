@@ -22,9 +22,9 @@ I explore hostile digital environments, threat intelligence, and their impact on
 | [cartas-a-desconocidos](https://github.com/luisassardo/cartas-a-desconocidos) | Anonymous letter exchange system | Node.js, Docker |
 | [pulso-digital](https://github.com/luisassardo/pulso-digital) | Minimal Ghost CMS theme | CSS |
 | [monetization-tool](https://github.com/luisassardo/monetization-tool) | Web monetization utility | HTML, JS |
-| [Osintgram](https://github.com/luisassardo/Osintgram) | OSINT tool for Instagram analysis | Python |
-| [TGcollector](https://github.com/luisassardo/TGcollector) | Web GUI for Telegram channel collection | JavaScript |
-| [CCTV](https://github.com/luisassardo/CCTV) | Close-circuit Telegram vision tracking | Python |
+| [Osintgram](https://github.com/luisassardo/Osintgram) (fork) | OSINT tool for Instagram analysis | Python |
+| [TGcollector](https://github.com/luisassardo/TGcollector) (fork) | Web GUI for Telegram channel collection | JavaScript |
+| [CCTV](https://github.com/luisassardo/CCTV) (fork) | Close-circuit Telegram vision tracking | Python |
 
 ---
 
