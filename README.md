@@ -2,7 +2,7 @@
 
 **Security researcher & digital threat analyst based in Germany.**
 
-I explore hostile digital environments, threat intelligence, and their impact on society — building tools and writing about what I find along the way.
+I explore hostile digital environments, threat intelligence, and their impact on society. Now starting to build tools and writing about what I find along the way.
 
 ---
 
