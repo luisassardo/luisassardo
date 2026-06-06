@@ -2,11 +2,11 @@
 
 **Journalist and developer building security & privacy tools for people at risk.**
 
-I work where investigative journalism meets digital security — researching hostile
+I work where investigative journalism meets digital security. Researching hostile
 digital environments and building tools that help journalists, activists, and human
 rights defenders protect themselves and hold power to account.
 
-Based in Germany · investigations focused on Latin America.
+Based in Germany · investigations focused on the Global South.
 
 ---
 
