@@ -44,4 +44,4 @@ Based in Germany · investigations focused on the Global South.
 > Tools that protect people should be local, auditable, and quiet. That's how I build.
 
 ---
-![Snake animation](https://github.com/luisassardo/luisassardo/blob/output/github-contribution-grid-snake.svg)
+
